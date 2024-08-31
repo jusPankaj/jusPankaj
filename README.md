@@ -13,7 +13,7 @@
 
 [![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jusPankaj)](https://github.com/jusPankaj/github-readme-stats)-->
 
-## Hi, I am Pankaj 👋 \
+## Hi, I am Pankaj 👋
 I'm a self-taught passionate Full Stack Developer from India 🇮🇳<br><br>💡   I'm a software developer by profession. <br>🎓 I graduated form Dr APJ Abdul Kalam Technical university, Lucknow (B.Tech, Computer Science and Engineering, Batch of 2021).<br>🌱  I'm on track for learning more about Web 3.<br>✍️  In my free time, I play or watch, football and pursue reading novels as my hobbies.
 
 <!--# 💫 About Me:
